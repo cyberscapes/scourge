@@ -1,0 +1,2 @@
+import socket, SocketServer
+local_hostname = socket.gethostname()
